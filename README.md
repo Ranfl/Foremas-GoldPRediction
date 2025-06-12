@@ -34,7 +34,7 @@ Fitur untuk mengirim feedback atau pertanyaan langsung ke tim pengembang.
 
 Dataset yang digunakan diperoleh dari Kaggle:
 
-📎 **Daily Gold Price (2015–2021) Time Series**  
+📎 **Daily Gold Price (2015–2025) Time Series**  
 📍 Link: [https://www.kaggle.com/datasets/nisargchodavadiya/daily-gold-price-20152021-time-series](https://www.kaggle.com/datasets/nisargchodavadiya/daily-gold-price-20152021-time-series)  
 Dataset ini mencakup harga emas harian selama 6 tahun dalam berbagai satuan ukuran (Gram, Ounce, dll).
 
@@ -54,7 +54,7 @@ Dataset ini mencakup harga emas harian selama 6 tahun dalam berbagai satuan ukur
 
 ### 🤖 Machine Learning
 - Model LSTM dibuat dengan TensorFlow/Keras
-- Format model: `.keras`, `.h5`, `.tflite`, `.json`
+- Format model: `.h5`
 - Implementasi & training model dilakukan dalam Google Colab (`.ipynb`)
 
 ### 🗂️ Arsitektur Proyek
